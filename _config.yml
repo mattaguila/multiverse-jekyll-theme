@@ -9,4 +9,6 @@ collections:
     title: Uploads
     output: true
 theme: multiverse_jekyll_theme
-exclude: ["Gemfile.lock", "node_modules"]
+exclude:
+- Gemfile.lock
+- node_modules
