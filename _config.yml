@@ -1,4 +1,5 @@
 ---
+theme: multiverse_jekyll_theme
 title: Aeon Arts
 timezone: America/Los_Angeles
 collections:
