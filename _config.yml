@@ -3,16 +3,16 @@ title: Aeon Arts
 timezone: America/Los_Angeles
 collections:
   footer:
-    title: Default
+    title: Footer
     output: true
   head:
-    title: Default
+    title: Head
     output: true
   header:
-    title: Default
+    title: Header
     output: true
   page:
-    title: Default
+    title: Page
     output: true
   default:
     title: Default
