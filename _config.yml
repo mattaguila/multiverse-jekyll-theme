@@ -3,7 +3,8 @@ title: Aeon Arts
 timezone: America/Los_Angeles
 collections:
   Default:
-    
+    title: Default
+    output: false
   posts:
     title: Posts
     output: true
